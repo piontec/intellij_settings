@@ -18,7 +18,7 @@ install_prereq() {
 setup_ohmyzsh() {
   if [ ! -d $HOME/.oh-my-zsh ]
   then
-    git clone http://github.com/robbyrussell/oh-my-zsh.git $HOME/.oh-my-zsh
+    sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
   fi         
 }
 
@@ -33,6 +33,8 @@ if [ ! -d $DOTFILES_BACKUP ]; then
   mkdir $DOTFILES_BACKUP
 fi
 
+setup_ohmyzsh
+
 for file in `ls $HOME_CFG`; do
   echo "Backup file: $file"
   mv -f $HOME/.$file $DOTFILES_BACKUP/ 
@@ -40,4 +42,3 @@ for file in `ls $HOME_CFG`; do
   ln -s "$DOTFILES/$HOME_CFG/$file" "$HOME/.$file"
 done 
 
-setup_ohmyzsh
