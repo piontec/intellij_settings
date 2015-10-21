@@ -1,0 +1,20 @@
+[user]
+	name = piontec
+	email = unknown
+
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+
+[alias]
+	co = checkout
+	ci = commit
+	a = add
+	graph = log --graph --decorate --pretty=format:\"%C(red bold)%h%x09%Cgreen%d%Creset%x20%s%x20%Cblue(%an)%Creset\"
+	st = status
+	unstage = reset HEAD --
+	pl = log --pretty=\"%Cblue%h%Creset %Cgreen[%cr]%Creset %s\" origin/production..origin/master
+
+[push]
+	default = simple
