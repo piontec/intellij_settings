@@ -1,11 +1,15 @@
 #!/bin/bash
 
+DOTFILES=`pwd`
+
 setup_vim() {
   if [ ! -d $HOME/.vim ]
   then
-    git clone https://github.com/tdi/vimrc.git ~/.vim/
+    if [ ! -x /usr/bin/vim.nox ]; then
+      sudo apt-get install -y vim-nox 
+    fi
     rm -f $HOME/.vimrc 
-    ln -s $HOME/.vim/vimrc $HOME/.vimrc
+    ln -s $DOTFILES/vim/vimrc $HOME/.vimrc
     git clone https://github.com/gmarik/Vundle.vim.git $HOME/.vim/bundle/Vundle.vim
     vim +PluginInstall +qall
   fi
