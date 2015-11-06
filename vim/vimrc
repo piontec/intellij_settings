@@ -15,16 +15,17 @@ call vundle#begin()
   " tabular always before vim-markdown
   Plugin 'godlygeek/tabular'
   Plugin 'plasticboy/vim-markdown'
+  Plugin 'Shougo/neocomplete.vim'
+  Plugin 'm-kat/aws-vim'
+  Plugin 'elzr/vim-json'
   Plugin 'tpope/vim-surround'
 "  Plugin 'vim-scripts/ZoomWin'
   Plugin 'michaeljsmith/vim-indent-object'
-  Plugin 'tpope/vim-fugitive'
+  "Plugin 'tpope/vim-fugitive'
   "  Plugin 'Valloric/YouetompleteMe'
-  Plugin 'Shougo/neocomplete.vim'
   " Plugin 'derekwyatt/vim-scala'
-  Plugin 'junegunn/goyo.vim'
+  "Plugin 'junegunn/goyo.vim'
 "  Plugin 'chriskempson/base16-vim'
-  Plugin 'm-kat/aws-vim'
 call vundle#end()
 
 " mv between windows
@@ -103,6 +104,7 @@ filetype indent on
 "set mouse=a
 set laststatus=2 
 
+au BufNewFile,BufRead *.template set filetype=json
 
 
 "GUI
