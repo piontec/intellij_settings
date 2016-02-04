@@ -13,9 +13,6 @@
 - name: add doublecmd to apt sources
   apt_repository: repo="ppa:alexx2000/doublecmd" state=present
 
-- name: add tomate to apt sources
-  apt_repository: repo="ppa:stvs/tomate" state=present
-
 - name: Install packages
   apt: name={{ item }} state=latest update_cache=true cache_valid_time=3600
   with_items:
@@ -27,6 +24,5 @@
     - quicksynergy
     - doublecmd-gtk
     - doublecmd-plugins
-    - tomate
     - indicator-multiload
     - indicator-cpufreq
