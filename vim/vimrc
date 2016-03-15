@@ -191,9 +191,9 @@ au BufRead /tmp/mutt-* set tw=78
 
 " Airline
 "
-let g:airline#extensions#tabline#enabled = 1
-let g:airline_theme = 'wombat'
-let g:airline#extensions#tabline#buffer_nr_show = 0
+"let g:airline#extensions#tabline#enabled = 1
+"let g:airline_theme = 'wombat'
+"let g:airline#extensions#tabline#buffer_nr_show = 0
 
 
 "Goyo
