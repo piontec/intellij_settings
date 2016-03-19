@@ -4,20 +4,21 @@ call vundle#begin()
   Plugin 'gmarik/Vundle.vim'
   Plugin 'bling/vim-airline'
   Plugin 'ekalinin/Dockerfile.vim'
-  Plugin 'jlanzarotta/bufexplorer'
+"  Plugin 'jlanzarotta/bufexplorer'
   Plugin 'scrooloose/nerdtree'
-  Plugin 'LaTeX-Box-Team/LaTeX-Box'
+"  Plugin 'LaTeX-Box-Team/LaTeX-Box'
   Plugin 'pearofducks/ansible-vim'
-  Plugin 'majutsushi/tagbar'
+"  Plugin 'majutsushi/tagbar' " for C and C++ development
   Plugin 'tomtom/tcomment_vim'
   " Plugin 'altercation/vim-colors-solarized'
   " Plugin 'fatih/vim-go'
   " tabular always before vim-markdown
   Plugin 'godlygeek/tabular'
   Plugin 'plasticboy/vim-markdown'
-  Plugin 'Shougo/neocomplete.vim'
+  Plugin 'Shougo/neocomplete.vim' 
   Plugin 'm-kat/aws-vim'
   Plugin 'elzr/vim-json'
+  Plugin 'jiangmiao/auto-pairs'
   Plugin 'tpope/vim-surround'
 "  Plugin 'vim-scripts/ZoomWin'
   Plugin 'michaeljsmith/vim-indent-object'
@@ -75,6 +76,9 @@ endif
 " NERD
 nmap <silent> <F7> :NERDTreeToggle<CR>
 nmap <silent> <F8> :TagbarToggle<CR>
+
+" markdown
+let g:vim_markdown_folding_disabled = 1
 
 set nocompatible
 set hlsearch
@@ -193,7 +197,7 @@ au BufRead /tmp/mutt-* set tw=78
 "
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_theme = 'wombat'
-let g:airline#extensions#tabline#buffer_nr_show = 0
+"let g:airline#extensions#tabline#buffer_nr_show = 0
 
 
 "Goyo
