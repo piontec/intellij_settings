@@ -1,0 +1,28 @@
+- name: add partner repo to apt sources
+  apt_repository: repo="deb http://archive.canonical.com/ubuntu {{ ansible_lsb.codename }} partner" state=present
+
+- name: add google key to apt sources
+  apt_key: url="https://dl.google.com/linux/linux_signing_key.pub" state=present
+
+- name: add google chrome to apt sources
+  apt_repository: repo="deb http://dl.google.com/linux/chrome/deb/ stable main" state=present
+
+- name: add my weather indicator to apt sources
+  apt_repository: repo="ppa:atareao/atareao" state=present
+
+- name: add doublecmd to apt sources
+  apt_repository: repo="ppa:alexx2000/doublecmd" state=present
+
+- name: Install packages
+  apt: name={{ item }} state=latest update_cache=true cache_valid_time=3600
+  with_items:
+    - gajim
+    - diodon
+    - google-chrome-stable
+    - skype
+    - my-weather-indicator
+    - quicksynergy
+    - doublecmd-gtk
+    - doublecmd-plugins
+    - indicator-multiload
+    - indicator-cpufreq
