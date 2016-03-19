@@ -35,6 +35,8 @@ nnoremap <silent> <C-h> <c-w>h
 nnoremap <silent> <C-k> <c-w>k
 nnoremap <silent> <C-j> <c-w>j
 
+
+
 if has("nvim") 
   set backspace=2
 
@@ -79,6 +81,9 @@ nmap <silent> <F8> :TagbarToggle<CR>
 
 " markdown
 let g:vim_markdown_folding_disabled = 1
+
+" vim-aws
+let g:AWSVimValidate = 1
 
 set nocompatible
 set hlsearch
@@ -168,6 +173,8 @@ endfunction
 map <silent><leader>cl :call ToggleCurline()<CR>
 
 imap jj <Esc>
+inoremap <C-Space> <C-n>
+inoremap <C-@> <C-Space>
 nnoremap <S-CR> O<Esc>
 nnoremap <CR> o<Esc>
 map <Esc>OM <S-CR>
@@ -196,7 +203,7 @@ au BufRead /tmp/mutt-* set tw=78
 " Airline
 "
 let g:airline#extensions#tabline#enabled = 1
-let g:airline_theme = 'wombat'
+"let g:airline_theme = 'wombat'
 "let g:airline#extensions#tabline#buffer_nr_show = 0
 
 
