@@ -22,6 +22,7 @@ call vundle#begin()
   Plugin 'tpope/vim-surround'
 "  Plugin 'vim-scripts/ZoomWin'
   Plugin 'michaeljsmith/vim-indent-object'
+  Plugin 'bkad/CamelCaseMotion'
   "Plugin 'tpope/vim-fugitive'
   "  Plugin 'Valloric/YouetompleteMe'
   " Plugin 'derekwyatt/vim-scala'
@@ -35,7 +36,12 @@ nnoremap <silent> <C-h> <c-w>h
 nnoremap <silent> <C-k> <c-w>k
 nnoremap <silent> <C-j> <c-w>j
 
-
+" map camel case movement
+"let g:vim_json_syntax_conceal = 0
+"map <silent> w <Plug>CamelCaseMotion_w 
+"map <silent> b <Plug>CamelCaseMotion_b 
+map <silent> e <Plug>CamelCaseMotion_e 
+map <silent> ge <Plug>CamelCaseMotion_ge 
 
 if has("nvim") 
   set backspace=2
