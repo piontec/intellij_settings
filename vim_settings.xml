@@ -9,11 +9,16 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/tests/customer/CustomerControllerTest.java" timestamp="1465208093761">
-        <mark key="[" line="38" column="67" />
-        <mark key="]" line="38" column="67" />
-        <mark key="." line="38" column="67" />
-        <mark key="^" line="38" column="66" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/tests/customer/CustomerControllerTest.java" timestamp="1465210437586">
+        <mark key="[" line="56" column="46" />
+        <mark key="]" line="56" column="51" />
+        <mark key="." line="56" column="51" />
+        <mark key="^" line="56" column="51" />
+      </file>
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/tests/support/Page.java" timestamp="1465210010690">
+        <mark key="]" line="202" column="0" />
+        <mark key="^" line="202" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/CustomerController.java" timestamp="1464958514860">
         <mark key="[" line="55" column="0" />
@@ -27,6 +32,11 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/devel/java/spring-boot-jersey-demo/src/test/java/pl/codeleak/support/PageAssertion.java" timestamp="1464964517298" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/tests/support/Sort.java" timestamp="1465210060114">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/build.gradle" timestamp="1464963451509">
         <mark key="[" line="75" column="44" />
         <mark key="]" line="75" column="43" />
@@ -49,45 +59,45 @@
         <mark key="]" line="24" column="70" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/java/spring-boot-jersey-demo/src/test/java/pl/codeleak/resttemplate/FindAllCustomersTest.java" timestamp="1464964413169" />
+      <file name="$USER_HOME$/devel/java/spring-boot-jersey-demo/src/test/java/pl/codeleak/resttemplate/FindAllCustomersTest.java" timestamp="1465209193851" />
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>com</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>com</text>
+        <text>]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGVudGl0eS5nZXRCb2R5KCkuZ2V0RW1haWwoKSkuaXNFcXVhbFRvKCJkYXZlQGRtYmFuZC5jb20iKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHBhZ2UuZ2V0Qm9keSgpLmdldFRvdGFsRWxlbWVudHMoKSkuaXNFcXVhbFRvKDMpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>com</text>
+        <text>]</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>dmband</text>
+        <text>[</text>
       </register>
       <register name="4" type="4">
-        <text>@</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>cwdave</text>
+        <text>/</text>
       </register>
       <register name="6" type="4">
-        <text>getEmail</text>
+        <text>]</text>
       </register>
       <register name="7" type="4">
-        <text>BEFORE_TEST_METHOD</text>
+        <text>0</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">QFNxbChzY3JpcHRzID0gImNsYXNzcGF0aDpkYXRhLnNxbCIsIGV4ZWN1dGlvblBoYXNlID0gU3FsLkV4ZWN1dGlvblBoYXNlLkJFRk9SRV9URVNUX01FVEhPRCkK</text>
+      <register name="8" type="4">
+        <text>[</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">QFNxbChzY3JpcHRzID0gImNsYXNzcGF0aDpkYXRhLnNxbCIsIGV4ZWN1dGlvblBoYXNlID0gU3FsLkV4ZWN1dGlvblBoYXNlLkJFRk9SRV9URVNUX01FVEhPRCkK</text>
+      <register name="9" type="4">
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -100,6 +110,7 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
