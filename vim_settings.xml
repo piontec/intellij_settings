@@ -9,11 +9,11 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/tests/customer/CustomerControllerTest.java" timestamp="1465207371456">
-        <mark key="[" line="23" column="73" />
-        <mark key="]" line="23" column="90" />
-        <mark key="." line="23" column="90" />
-        <mark key="^" line="23" column="90" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/tests/customer/CustomerControllerTest.java" timestamp="1465208093761">
+        <mark key="[" line="38" column="67" />
+        <mark key="]" line="38" column="67" />
+        <mark key="." line="38" column="67" />
+        <mark key="^" line="38" column="66" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/CustomerController.java" timestamp="1464958514860">
         <mark key="[" line="55" column="0" />
@@ -54,40 +54,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>BEFORE_TEST_METHOD</text>
+        <text>com</text>
       </register>
       <register name="-" type="4">
-        <text>BEFORE_TEST_METHOD</text>
+        <text>com</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGVudGl0eS5nZXRTdGF0dXNDb2RlKCkuaXMyeHhTdWNjZXNzZnVsKCkpLmlzVHJ1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGVudGl0eS5nZXRCb2R5KCkuZ2V0RW1haWwoKSkuaXNFcXVhbFRvKCJkYXZlQGRtYmFuZC5jb20iKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>BEFORE_TEST_METHOD</text>
+        <text>com</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">QFNxbChzY3JpcHRzID0gImNsYXNzcGF0aDpkYXRhLnNxbCIsIGV4ZWN1dGlvblBoYXNlID0gU3FsLkV4ZWN1dGlvblBoYXNlLkJFRk9SRV9URVNUX01FVEhPRCkK</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">QFNxbChzY3JpcHRzID0gImNsYXNzcGF0aDpkYXRhLnNxbCIsIGV4ZWN1dGlvblBoYXNlID0gU3FsLkV4ZWN1dGlvblBoYXNlLkJFRk9SRV9URVNUX01FVEhPRCkK</text>
+      <register name="3" type="4">
+        <text>dmband</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">LS0g</text>
+        <text>@</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">LS0g</text>
+        <text>cwdave</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">LS0g</text>
+        <text>getEmail</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">LS0g</text>
+        <text>BEFORE_TEST_METHOD</text>
       </register>
-      <register name="8" type="4">
-        <text>/</text>
+      <register name="8" type="2">
+        <text encoding="base64">QFNxbChzY3JpcHRzID0gImNsYXNzcGF0aDpkYXRhLnNxbCIsIGV4ZWN1dGlvblBoYXNlID0gU3FsLkV4ZWN1dGlvblBoYXNlLkJFRk9SRV9URVNUX01FVEhPRCkK</text>
       </register>
-      <register name="9" type="4">
-        <text>/</text>
+      <register name="9" type="2">
+        <text encoding="base64">QFNxbChzY3JpcHRzID0gImNsYXNzcGF0aDpkYXRhLnNxbCIsIGV4ZWN1dGlvblBoYXNlID0gU3FsLkV4ZWN1dGlvblBoYXNlLkJFRk9SRV9URVNUX01FVEhPRCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -127,6 +127,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
