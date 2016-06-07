@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/Application.java" timestamp="1465288285435">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/CustomerController.java" timestamp="1465212555985">
         <mark key="'" line="43" column="29" />
         <mark key="[" line="55" column="0" />
@@ -18,11 +23,11 @@
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Parameter.java" timestamp="1465285736114">
         <mark key="[" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/build.gradle" timestamp="1465211238323">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="75" column="43" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/build.gradle" timestamp="1465288007858">
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="4" />
+        <mark key="^" line="45" column="5" />
+        <mark key="." line="43" column="4" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/.gitignore" timestamp="1465213270300">
         <mark key="[" line="8" column="17" />
@@ -95,41 +100,41 @@
       <jump line="43" column="29" filename="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/CustomerController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Customer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Customer</text>
+        <text>/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHBhZ2UuZ2V0Qm9keSgpLmdldFRvdGFsRWxlbWVudHMoKSkuaXNFcXVhbFRvKDMpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Customer</text>
+      <register name="1" type="2">
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="2" type="4">
-        <text>piontec</text>
+        <text>/</text>
       </register>
       <register name="3" type="4">
-        <text>piontec</text>
+        <text>/</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">LmdyYWRsZQo=</text>
+      <register name="4" type="4">
+        <text>/</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ki5pbWwK</text>
+      <register name="5" type="4">
+        <text>/</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+      <register name="6" type="4">
+        <text>Customer</text>
       </register>
       <register name="7" type="4">
-        <text>;</text>
+        <text>piontec</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>piontec</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">LmdyYWRsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
