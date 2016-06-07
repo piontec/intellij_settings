@@ -8,6 +8,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/resources/db/migration/V1__init.sql" timestamp="1465289617395">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/CustomerController.java" timestamp="1465212555985">
         <mark key="'" line="43" column="29" />
         <mark key="[" line="55" column="0" />
@@ -19,6 +24,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/ImageController.java" timestamp="1465289398690">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Parameter.java" timestamp="1465285736114">
         <mark key="[" line="7" column="32" />
@@ -85,13 +96,13 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/resources/application.properties" timestamp="1464962673758">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-        <mark key="." line="5" column="23" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/resources/application.properties" timestamp="1465289729282">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
       </file>
-      <file name="/fragment.java" timestamp="1465285969584">
+      <file name="/fragment.java" timestamp="1465289152505">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -100,41 +111,57 @@
       <jump line="43" column="29" filename="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/CustomerController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>DROP TABLE customer IF EXISTS;
+
+CREATE TABLE customer (
+  id        BIGINT IDENTITY PRIMARY KEY,
+  firstname VARCHAR(30),
+  lastname  VARCHAR(30),
+  email     VARCHAR(30),
+  UNIQUE (email)
+);</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>customer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHBhZ2UuZ2V0Qm9keSgpLmdldFRvdGFsRWxlbWVudHMoKSkuaXNFcXVhbFRvKDMpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
+      <register name="1" type="4">
+        <text>DROP TABLE customer IF EXISTS;
+
+CREATE TABLE customer (
+  id        BIGINT IDENTITY PRIMARY KEY,
+  firstname VARCHAR(30),
+  lastname  VARCHAR(30),
+  email     VARCHAR(30),
+  UNIQUE (email)
+);</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>customer</text>
       </register>
-      <register name="3" type="4">
-        <text>/</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bnVzZWQiKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>customerRepository</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
-      </register>
-      <register name="6" type="4">
         <text>Customer</text>
       </register>
+      <register name="6" type="4">
+        <text>customerRepository</text>
+      </register>
       <register name="7" type="4">
-        <text>piontec</text>
+        <text>customerRepository</text>
       </register>
       <register name="8" type="4">
-        <text>piontec</text>
+        <text>Customer</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmdyYWRsZQo=</text>
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAiZmluZE9uZSIsIG5pY2tuYW1lID0gImZpbmRPbmUiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
