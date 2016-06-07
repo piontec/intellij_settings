@@ -15,11 +15,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Parameter.java" timestamp="1465285316079">
-        <mark key="[" line="5" column="47" />
-        <mark key="]" line="5" column="44" />
-        <mark key="^" line="5" column="44" />
-        <mark key="." line="5" column="44" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Parameter.java" timestamp="1465285736114">
+        <mark key="[" line="7" column="32" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/build.gradle" timestamp="1465211238323">
         <mark key="[" line="76" column="0" />
@@ -37,6 +34,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/repository/ImageRepository.java" timestamp="1465285989546">
+        <mark key="[" line="4" column="68" />
+        <mark key="]" line="5" column="72" />
+        <mark key="." line="5" column="72" />
+        <mark key="^" line="5" column="72" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/tests/health/HealthControllerTest.java" timestamp="1464964823750">
         <mark key="[" line="23" column="0" />
@@ -65,12 +68,17 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/java/spring-boot-jersey-demo/src/test/java/pl/codeleak/support/PageAssertion.java" timestamp="1464964517298" />
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Image.java" timestamp="1465285054279">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="7" column="40" />
-        <mark key="." line="7" column="40" />
-        <mark key="^" line="7" column="40" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Image.java" timestamp="1465285923552">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/ParameterType.java" timestamp="1465285629199">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/resources/application.properties" timestamp="1464962673758">
         <mark key="[" line="3" column="34" />
@@ -78,10 +86,9 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1465211652749">
+      <file name="/fragment.java" timestamp="1465285969584">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/java/spring-boot-jersey-demo/src/test/java/pl/codeleak/resttemplate/FindAllCustomersTest.java" timestamp="1465209193851" />
     </filemarks>
     <jumps>
       <jump line="70" column="26" filename="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/CustomerController.java" />
@@ -89,34 +96,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>piontec</text>
+        <text>Customer</text>
       </register>
       <register name="-" type="4">
-        <text>piontec</text>
+        <text>Customer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHBhZ2UuZ2V0Qm9keSgpLmdldFRvdGFsRWxlbWVudHMoKSkuaXNFcXVhbFRvKDMpOwo=</text>
       </register>
       <register name="1" type="4">
+        <text>Customer</text>
+      </register>
+      <register name="2" type="4">
         <text>piontec</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">LmdyYWRsZQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ki5pbWwK</text>
+      <register name="3" type="4">
+        <text>piontec</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">LmdyYWRsZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ki5pbWwK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">LmlkZWEK</text>
       </register>
-      <register name="5" type="4">
-        <text>;</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">IA==</text>
@@ -139,6 +146,8 @@
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
