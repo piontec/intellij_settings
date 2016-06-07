@@ -42,11 +42,11 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="21" column="57" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/tests/customer/CustomerControllerTest.java" timestamp="1465310546689">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="41" column="26" />
-        <mark key="^" line="45" column="59" />
-        <mark key="." line="45" column="59" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/tests/customer/CustomerControllerTest.java" timestamp="1465310881754">
+        <mark key="[" line="40" column="81" />
+        <mark key="]" line="40" column="84" />
+        <mark key="^" line="40" column="84" />
+        <mark key="." line="40" column="84" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/tests/support/Page.java" timestamp="1465210010690">
         <mark key="]" line="202" column="0" />
@@ -64,11 +64,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/resources/insert_sample_customers.sql" timestamp="1465310784433">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="1" />
-        <mark key="." line="8" column="1" />
-        <mark key="^" line="8" column="1" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/resources/insert_sample_customers.sql" timestamp="1465310825889">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/resources/db/migration/V1__init.sql" timestamp="1465306943908">
         <mark key="[" line="1" column="0" />
@@ -139,8 +139,8 @@
       <jump line="46" column="21" filename="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Image.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>parameter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZHJvcCB0YWJsZSBjdXN0b21lciBpZiBleGlzdHM7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>parameter</text>
@@ -151,32 +151,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBSZXNwb25zZUVudGl0eTxQYWdlPEN1c3RvbWVyPj4gcGFnZSA9CiAgICAgICAgICAgICAgICByZXN0VGVtcGxhdGUuZXhjaGFuZ2UoImh0dHA6Ly9sb2NhbGhvc3Q6OTAwMC9jdXN0b21lcj9wYWdlPTAmc2l6ZT0xJnNvcnQ9Zmlyc3RuYW1lJmRpcmVjdGlvbj1kZXNjIiwKICAgICAgICAgICAgICAgICAgICAgICAgSHR0cE1ldGhvZC5HRVQsIG51bGwsIG5ldyBQYXJhbWV0ZXJpemVkVHlwZVJlZmVyZW5jZTxQYWdlPEN1c3RvbWVyPj4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>parameter</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZHJvcCB0YWJsZSBjdXN0b21lciBpZiBleGlzdHM7Cg==</text>
       </register>
       <register name="2" type="4">
+        <text>parameter</text>
+      </register>
+      <register name="3" type="4">
         <text>truncate schema public restart identity and commit no check</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;</text>
-      </register>
       <register name="6" type="4">
-        <text>3</text>
+        <text>&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>2</text>
+        <text>3</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>2</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
