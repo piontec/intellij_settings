@@ -14,6 +14,12 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
+      <file name="/Dummy.txt" timestamp="1465301100865">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="o" line="0" column="45" />
+      </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/CustomerController.java" timestamp="1465212555985">
         <mark key="'" line="43" column="29" />
         <mark key="[" line="55" column="0" />
@@ -26,17 +32,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/ImageController.java" timestamp="1465289398690">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="18" column="13" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/ImageController.java" timestamp="1465300145449">
+        <mark key="[" line="56" column="72" />
+        <mark key="]" line="57" column="23" />
+        <mark key="." line="57" column="23" />
+        <mark key="^" line="57" column="23" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Parameter.java" timestamp="1465295344645">
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="64" />
-        <mark key="^" line="15" column="64" />
-        <mark key="." line="15" column="64" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Parameter.java" timestamp="1465300900149">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="27" />
+        <mark key="^" line="11" column="27" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/build.gradle" timestamp="1465291133858">
         <mark key="[" line="57" column="31" />
@@ -88,18 +95,17 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/AbstractEntity.java" timestamp="1465294232621">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="11" column="49" />
-        <mark key="^" line="11" column="49" />
-        <mark key="." line="11" column="49" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/AbstractEntity.java" timestamp="1465300493170">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="12" />
+        <mark key="^" line="18" column="12" />
+        <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Image.java" timestamp="1465295605227">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="32" />
-        <mark key="^" line="23" column="32" />
-        <mark key="." line="23" column="32" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Image.java" timestamp="1465300911130">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/ParameterType.java" timestamp="1465285629199">
         <mark key="[" line="3" column="14" />
@@ -121,57 +127,67 @@
       <jump line="70" column="26" filename="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/CustomerController.java" />
       <jump line="43" column="29" filename="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/CustomerController.java" />
       <jump line="83" column="0" filename="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Image.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Parameter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>parameter</text>
+        <text>.idea project files for working with Intelli</text>
       </register>
       <register name="-" type="4">
-        <text>parameter</text>
+        <text>.idea project files for working with Intelli</text>
+      </register>
+      <register name="/" type="4">
+        <text>getIma</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHBhZ2UuZ2V0Qm9keSgpLmdldFRvdGFsRWxlbWVudHMoKSkuaXNFcXVhbFRvKDMpOwo=</text>
+        <text encoding="base64">Ly8gVE9ETzogY2hhY2sgc2NoZW1hIGNvbHVtcwo=</text>
       </register>
       <register name="1" type="4">
-        <text>parameter</text>
+        <text>.idea project files for working with Intelli</text>
       </register>
       <register name="2" type="4">
-        <text>name=&quot;CUST_ID&quot;,referencedColumnName=&quot;CUST_ID&quot;)</text>
+        <text>password</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="3" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJbWFnZSBnZXRJbWFnZSgpIHsKICAgICAgICByZXR1cm4gaW1hZ2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0SW1hZ2UoSW1hZ2UgaW1hZ2UpIHsKICAgICAgICB0aGlzLmltYWdlID0gaW1hZ2U7CiAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>customer</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>Customer</text>
+        <text>i</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPbmVUb01hbnkoIHRhcmdldEVudGl0eSA9IFBhcmFtZXRlci5jbGFzcywgb3JwaGFuUmVtb3ZhbCA9IHRydWUgKQo=</text>
+      <register name="7" type="4">
+        <text>f</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>=</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>getIma</last-search>
+      <last-offset />
+      <last-pattern>getIma</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>getIma</entry>
+      </history-search>
       <history-cmd>
         <entry>q</entry>
         <entry>0</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
