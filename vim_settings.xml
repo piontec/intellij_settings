@@ -20,7 +20,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1465386144534">
+      <file name="/a.dummy" timestamp="1465391082146">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/build.gradle" timestamp="1465387400054" />
@@ -64,17 +64,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/resources/db/migration/V1__init.sql" timestamp="1465306943908">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1465310953804">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-        <mark key="o" line="0" column="45" />
-      </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/ImageController.java" timestamp="1465386243432">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="114" column="11" />
@@ -100,10 +89,11 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/tests/support/ApplicationTest.java" timestamp="1465310403401">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/resources/ImageControllerTest_checkImageListJson.json" timestamp="1465392796728" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/tests/support/ApplicationTest.java" timestamp="1465392687957">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/AbstractEntity.java" timestamp="1465300493170">
         <mark key="[" line="18" column="4" />
@@ -123,20 +113,28 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/tests/support/TestUtils.java" timestamp="1465393011492">
+        <mark key="[" line="14" column="68" />
+        <mark key="]" line="14" column="67" />
+        <mark key="." line="14" column="67" />
+        <mark key="^" line="14" column="67" />
+      </file>
       <file name="/fragment.java" timestamp="1465386144539">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/devel/java/spring-boot-jersey-demo/src/test/java/pl/codeleak/mockmvc/CustomersTest.java" timestamp="1465392521446" />
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Template.java" timestamp="1465382438511">
         <mark key="[" line="31" column="99" />
         <mark key="]" line="32" column="11" />
         <mark key="^" line="32" column="11" />
         <mark key="." line="32" column="11" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/controller/ImageControllerTest.java" timestamp="1465386401913">
-        <mark key="[" line="56" column="63" />
-        <mark key="]" line="57" column="71" />
-        <mark key="." line="57" column="71" />
-        <mark key="^" line="57" column="71" />
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/controller/ImageControllerTest.java" timestamp="1465394115372">
+        <mark key="'" line="24" column="33" />
+        <mark key="[" line="26" column="101" />
+        <mark key="]" line="26" column="102" />
+        <mark key="." line="26" column="102" />
+        <mark key="^" line="26" column="110" />
       </file>
     </filemarks>
     <jumps>
@@ -146,46 +144,47 @@
       <jump line="17" column="0" filename="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Parameter.java" />
       <jump line="46" column="21" filename="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Image.java" />
       <jump line="56" column="0" filename="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/ImageController.java" />
+      <jump line="32" column="33" filename="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/controller/ImageControllerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pZCA9IGlkOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">REIg</text>
       </register>
       <register name="-" type="4">
-        <text>Long hhhid</text>
+        <text encoding="base64">REIg</text>
       </register>
       <register name="/" type="4">
         <text>getIma</text>
       </register>
-      <register name="0" type="4">
-        <text>ApplicationTest.TEST_URI + &quot;images/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgIHJlc3QuZGVsZXRlKEFwcGxpY2F0aW9uVGVzdC5URVNUX1VSSSArICJpbWFnZXMvMSIpOyAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pZCA9IGlkOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">REIg</text>
       </register>
-      <register name="2" type="4">
-        <text>Long hhhid</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGNyZWF0ZVNhbXBsZUltYWdlcygpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGNyZWF0ZVNhbXBsZUltYWdlcygpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>+</text>
+        <text>Valid</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>I</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>R</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>U</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
