@@ -19,12 +19,6 @@
         <mark key="]" line="16" column="11" />
         <mark key="." line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/build.gradle" timestamp="1465291133858">
-        <mark key="[" line="57" column="31" />
-        <mark key="]" line="57" column="32" />
-        <mark key="^" line="57" column="31" />
-        <mark key="." line="57" column="32" />
-      </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/.gitignore" timestamp="1465213270300">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="9" column="6" />
@@ -75,12 +69,6 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
         <mark key="o" line="0" column="45" />
-      </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/ImageController.java" timestamp="1465311530710">
-        <mark key="[" line="92" column="42" />
-        <mark key="]" line="92" column="48" />
-        <mark key="." line="92" column="48" />
-        <mark key="^" line="92" column="48" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/resources/db/migration/V201606071541_create_image_parameter.sql" timestamp="1465307192712">
         <mark key="[" line="39" column="19" />
