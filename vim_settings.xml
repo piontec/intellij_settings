@@ -54,6 +54,12 @@
         <mark key="^" line="48" column="12" />
         <mark key="." line="48" column="12" />
       </file>
+      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/resources/application.properties" timestamp="1465456899413">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="48" />
+        <mark key="." line="5" column="48" />
+        <mark key="^" line="5" column="48" />
+      </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/resources/insert_sample_customers.sql" timestamp="1465310825889">
         <mark key="[" line="8" column="2" />
         <mark key="]" line="9" column="0" />
@@ -144,10 +150,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">REIg</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">REIg</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>getIma</text>
@@ -156,31 +162,31 @@
         <text encoding="base64">ICAgICAgIHJlc3QuZGVsZXRlKEFwcGxpY2F0aW9uVGVzdC5URVNUX1VSSSArICJpbWFnZXMvMSIpOyAK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">REIg</text>
+        <text>0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNyZWF0ZVNhbXBsZUltYWdlcygpOwo=</text>
+      <register name="2" type="4">
+        <text>0</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNyZWF0ZVNhbXBsZUltYWdlcygpOwo=</text>
+      <register name="3" type="4">
+        <text>1</text>
       </register>
       <register name="4" type="4">
-        <text>Valid</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>9</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>9</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>8</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>6</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
