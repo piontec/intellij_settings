@@ -47,10 +47,6 @@
         <mark key="^" line="40" column="84" />
         <mark key="." line="40" column="84" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Image.java" timestamp="1465310260210">
-        <mark key="'" line="46" column="21" />
-        <mark key="[" line="115" column="5" />
-      </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/resources/db/migration/V201606071541__create_image_parameter.sql" timestamp="1465310721159" />
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/ApplicationController.java" timestamp="1465382135896">
         <mark key="[" line="80" column="31" />
@@ -130,11 +126,11 @@
         <mark key="." line="32" column="11" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/controller/ImageControllerTest.java" timestamp="1465394115372">
-        <mark key="'" line="24" column="33" />
-        <mark key="[" line="26" column="101" />
-        <mark key="]" line="26" column="102" />
-        <mark key="." line="26" column="102" />
-        <mark key="^" line="26" column="110" />
+        <mark key="'" line="23" column="33" />
+        <mark key="[" line="25" column="101" />
+        <mark key="]" line="25" column="102" />
+        <mark key="." line="25" column="102" />
+        <mark key="^" line="25" column="110" />
       </file>
     </filemarks>
     <jumps>
