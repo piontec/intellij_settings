@@ -67,7 +67,6 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="50" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/resources/db/migration/V201606071541__create_image_parameter.sql" timestamp="1465310721159" />
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/ApplicationController.java" timestamp="1465460909480">
         <mark key="'" line="72" column="0" />
         <mark key="[" line="104" column="0" />
@@ -87,7 +86,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/resources/requests/ApplicationControllerTest_post.json" timestamp="1465458024442" />
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/ImageController.java" timestamp="1465461080496">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="49" column="58" />
@@ -118,12 +116,17 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/resources/ImageControllerTest_checkImageListJson.json" timestamp="1465392796728" />
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/Utils.java" timestamp="1465460058391">
         <mark key="[" line="19" column="39" />
         <mark key="]" line="19" column="52" />
         <mark key="." line="19" column="52" />
         <mark key="^" line="19" column="52" />
+      </file>
+      <file name="$USER_HOME$/devfactory/git/aline-insights-copy/dizzard/dizzard-api/src/main/java/com/devfactory/dizzard/integration/AWSHelper.java" timestamp="1468930410091">
+        <mark key="[" line="46" column="14" />
+        <mark key="]" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="34" />
       </file>
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/test/java/com/devfactory/dizzard/tests/support/ApplicationTest.java" timestamp="1465392687957">
         <mark key="[" line="24" column="0" />
@@ -141,7 +144,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/java/spring-boot-jersey-demo/src/main/resources/schema.sql" timestamp="1465310776454" />
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/ParameterType.java" timestamp="1465285629199">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="30" />
@@ -162,7 +164,6 @@
       <file name="/fragment.java" timestamp="1465386144539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/java/spring-boot-jersey-demo/src/test/java/pl/codeleak/mockmvc/CustomersTest.java" timestamp="1465392521446" />
       <file name="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/entity/Template.java" timestamp="1465382438511">
         <mark key="[" line="31" column="99" />
         <mark key="]" line="32" column="11" />
@@ -192,11 +193,11 @@
       <jump line="72" column="0" filename="$USER_HOME$/devfactory/git/aline-insights/dizzard/src/main/java/com/devfactory/dizzard/controller/ApplicationController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgImN1c3RvbUltYWdlcyI6IFtdLAogICAgICAiY29udGFpbmVycyI6IFtdLAogICAgICAiZ2xvYmFsVmFyaWFibGVzIjogW10K</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>getIma</text>
@@ -204,32 +205,32 @@
       <register name="0" type="2">
         <text encoding="base64">CUBKc29uU2VyaWFsaXplKHVzaW5nPURhdGVUaW1lU2VyaWFsaXplci5jbGFzcykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgImN1c3RvbUltYWdlcyI6IFtdLAogICAgICAiY29udGFpbmVycyI6IFtdLAogICAgICAiZ2xvYmFsVmFyaWFibGVzIjogW10K</text>
+      <register name="1" type="4">
+        <text>y</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>e</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgImN1c3RvbUltYWdlcyI6IFtdLAogICAgICAiY29udGFpbmVycyI6IFtdLAogICAgICAiZ2xvYmFsVmFyaWFibGVzIjogW10K</text>
+      <register name="3" type="4">
+        <text>k</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgImN1c3RvbUltYWdlcyI6IFtdLAogICAgICAiY29udGFpbmVycyI6IFtdLAogICAgICAiZ2xvYmFsVmFyaWFibGVzIjogW10K</text>
+      <register name="5" type="4">
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>ToImageSummaryConverter</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>ToImageSummaryConverter</text>
+        <text>c</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgSW1hZ2VTdW1tYXJ5KEltYWdlIHNvdXJjZSkgewogICAgICAgICAgICB0aGlzLmlkID0gc291cmNlLmdldElkKCk7CiAgICAgICAgICAgIHRoaXMubmFtZSA9IHNvdXJjZS5nZXROYW1lKCk7CiAgICAgICAgICAgIHRoaXMuc3VtbWFyeSA9IHNvdXJjZS5nZXRTdW1tYXJ5KCk7CiAgICAgICAgfQo=</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
